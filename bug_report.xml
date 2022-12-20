@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <about>
-
       <id>1</id>
       <title>The placeholder is overlapped the entering text in the search field</title>
       <priority>Medium</priority>
