@@ -1,1 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<about>
 
+      <id>1</id>
+      <title>The placeholder is overlapped the entering text in the search field</title>
+      <priority>Medium</priority>
+      <Severity>Minor</Severity>
+      <description>The placeholder is overlapped the entering text in the search field on the main page</description>
+      <STR>1. Open main page; 2. Enter text in the search field; 3. Pay attantion on the field</STR>
+      <Actual result>The placeholder is overlapped the entering text in the search field</Actual result>
+      <Expected result>The search request is displayed in the search field</Expected result>
+      <Attacment>file.jpg </Attacment>
+  </about>
